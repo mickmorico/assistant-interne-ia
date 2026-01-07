@@ -1,0 +1,4 @@
+L’entreprise s’appelle ACME.
+Les horaires de travail sont de 9h à 18h.
+Les congés doivent être demandés auprès du manager.
+L’outil de communication interne est Slack.
